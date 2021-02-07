@@ -1,3 +1,23 @@
+Todo List com laravel
+
+Para rodar o projeto:
+
+altere o nome do arquivo .env.example para .env setar o banco no arquivo .env
+
+cole esses comandos no console dentro da pasta do projeto:
+
+Composer install
+
+php artisan migrate
+
+php artisan key:generate
+
+php artisan serve
+
+npm install
+
+npm run hot
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
